@@ -1,0 +1,58 @@
+<Window x:Class="WpfApp1.Window4_ShowInf"
+        ResizeMode="CanMinimize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Карточка записи" Height="700" Width="860">
+    <Grid Margin="28">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="{StaticResource PrimaryBrush}" CornerRadius="26" Padding="28">
+            <StackPanel>
+                <TextBlock Text="Карточка записи" FontSize="16" Foreground="#E8DFD0" />
+                <TextBlock Margin="0,10,0,0" Text="Найденные параметры приема" FontSize="30" FontWeight="SemiBold" Foreground="White" />
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Row="2" Background="{StaticResource CardBg}" CornerRadius="26" Padding="26">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="180" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Row="0" Text="Пациент" FontSize="15" FontWeight="SemiBold" VerticalAlignment="Center" />
+                <TextBox x:Name="PatientFullName_Inf" Grid.Row="0" Grid.Column="1" IsReadOnly="True" />
+
+                <TextBlock Grid.Row="1" Text="Поликлиника" FontSize="15" FontWeight="SemiBold" VerticalAlignment="Center" />
+                <TextBox x:Name="Policlinic_Inf" Grid.Row="1" Grid.Column="1" IsReadOnly="True" />
+
+                <TextBlock Grid.Row="2" Text="Врач" FontSize="15" FontWeight="SemiBold" VerticalAlignment="Center" />
+                <TextBox x:Name="Doctor_Inf" Grid.Row="2" Grid.Column="1" IsReadOnly="True" />
+
+                <TextBlock Grid.Row="3" Text="Услуга" FontSize="15" FontWeight="SemiBold" VerticalAlignment="Center" />
+                <TextBox x:Name="Service_Inf" Grid.Row="3" Grid.Column="1" IsReadOnly="True" />
+
+                <TextBlock Grid.Row="4" Text="Дата приема" FontSize="15" FontWeight="SemiBold" VerticalAlignment="Center" />
+                <TextBox x:Name="DateTime_Inf" Grid.Row="4" Grid.Column="1" IsReadOnly="True" />
+
+                <Button x:Name="BackToMain" Grid.Row="5" Grid.Column="1" Margin="0,24,0,0" Click="BackToMain_Click" Content="Вернуться в центр" Style="{StaticResource OutlineButton}" />
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,57 @@
+<Window x:Class="WpfApp1.MainWindow"
+        ResizeMode="CanMinimize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Навигационный центр" Height="640" Width="1120">
+    <Grid Margin="28">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="220" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="{StaticResource PrimaryBrush}" CornerRadius="28" Padding="32">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <StackPanel VerticalAlignment="Center">
+                    <TextBlock Text="Координационный центр записи" FontSize="16" Foreground="#E8DFD0" />
+                    <TextBlock Margin="0,12,0,0" Text="Единая система работы с пациентами, расписанием врачей и услугами поликлиник" TextWrapping="Wrap" FontSize="34" FontWeight="SemiBold" Foreground="White" />
+                    <TextBlock Margin="0,14,0,0" Text="Интерфейс разделен на регистратуру, просмотр текущих обращений и администрирование справочников." TextWrapping="Wrap" FontSize="16" Foreground="#E8DFD0" />
+                </StackPanel>
+
+                <Border Grid.Column="1" Background="#2A7473" CornerRadius="24" Padding="22" Margin="24,0,0,0">
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="Структура данных" FontSize="18" FontWeight="SemiBold" Foreground="White" />
+                        <TextBlock Margin="0,12,0,0" Text="9 сущностей" FontSize="28" FontWeight="Bold" Foreground="#FFD9C6" />
+                        <TextBlock Margin="0,10,0,0" Text="Пациенты, поликлиники, специализации, врачи, услуги, доступность, связи врача с услугами, записи и медкарты." TextWrapping="Wrap" Foreground="#F4ECE2" FontSize="14" />
+                    </StackPanel>
+                </Border>
+            </Grid>
+        </Border>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="20" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="20" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Button x:Name="register" Grid.Row="0" Grid.Column="0" Click="RegisterButton" Content="Открыть регистратуру" FontSize="24" />
+            <Button x:Name="checckInf" Grid.Row="0" Grid.Column="2" Click="CheckButton" Content="Найти активную запись" FontSize="24" />
+            <Button x:Name="addInf" Grid.Row="2" Grid.Column="0" Click="addInf_Click" Content="Загрузить врача и услугу" FontSize="24" Background="{StaticResource AccentBrush}" />
+            <Button x:Name="reg_patient" Grid.Row="2" Grid.Column="2" Click="AddPatient" Content="Зарегистрировать пациента" FontSize="24" Style="{StaticResource OutlineButton}" />
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,46 @@
+<Window x:Class="WpfApp1.Window3_CheckInf"
+        ResizeMode="CanMinimize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Поиск записи" Height="520" Width="760">
+    <Grid Margin="28">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="{StaticResource PrimaryBrush}" CornerRadius="26" Padding="28">
+            <StackPanel>
+                <TextBlock Text="Проверка активной записи" FontSize="16" Foreground="#E8DFD0" />
+                <TextBlock Margin="0,10,0,0" Text="Поиск по пациенту и выбранной услуге" FontSize="30" FontWeight="SemiBold" Foreground="White" />
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Row="2" Background="{StaticResource CardBg}" CornerRadius="26" Padding="26">
+            <StackPanel>
+                <TextBlock Text="Используйте те же значения, которые были указаны при оформлении записи." Foreground="{StaticResource MutedBrush}" TextWrapping="Wrap" />
+
+                <TextBlock Margin="0,22,0,0" Text="ФИО пациента" FontSize="15" FontWeight="SemiBold" />
+                <TextBox x:Name="FullName_CheckInf" />
+
+                <TextBlock Margin="0,18,0,0" Text="Услуга" FontSize="15" FontWeight="SemiBold" />
+                <TextBox x:Name="Service_CheckInf" />
+
+                <Grid Margin="0,26,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition Width="16" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="Home_Button" Grid.Column="0" Click="Home_Button_Click" Content="Вернуться в центр" Style="{StaticResource OutlineButton}" />
+                    <Button x:Name="CheckInf_Button" Grid.Column="2" Click="CheckInf_Button_Click" Content="Найти запись" Background="{StaticResource AccentBrush}" />
+                </Grid>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

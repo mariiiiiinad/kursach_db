@@ -1,0 +1,76 @@
+<Window x:Class="WpfApp1.Window1"
+        ResizeMode="CanMinimize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Регистратура" Height="760" Width="1120">
+    <Grid Margin="28">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="22" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="{StaticResource PrimaryBrush}" CornerRadius="26" Padding="28">
+            <StackPanel>
+                <TextBlock Text="Регистратура пациента" FontSize="16" Foreground="#E8DFD0" />
+                <TextBlock Margin="0,10,0,0" Text="Подбор врача по поликлинике, специализации и доступным слотам" FontSize="30" FontWeight="SemiBold" Foreground="White" TextWrapping="Wrap" />
+                <TextBlock Margin="0,10,0,0" Text="Заполните основные данные пациента и выберите медицинскую услугу из справочника." FontSize="15" Foreground="#F1E9DE" />
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Row="2" Background="{StaticResource CardBg}" CornerRadius="26" Padding="26">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition Width="24" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Column="0">
+                    <TextBlock Text="Данные пациента" FontSize="24" FontWeight="SemiBold" />
+                    <TextBlock Margin="0,6,0,0" Text="Укажите ФИО так, как они внесены в базу пациентов." Foreground="{StaticResource MutedBrush}" />
+
+                    <TextBlock Margin="0,22,0,0" Text="ФИО пациента" FontSize="15" FontWeight="SemiBold" />
+                    <TextBox x:Name="PatientFullName" />
+                    <CheckBox x:Name="MiddleName" Content="у пациента отсутствует отчество" />
+
+                    <TextBlock Margin="0,18,0,0" Text="Поликлиника" FontSize="15" FontWeight="SemiBold" />
+                    <ComboBox x:Name="policlinicComboBox" SelectionChanged="policlinic_SelectionChanged" />
+
+                    <TextBlock Margin="0,18,0,0" Text="Специализация" FontSize="15" FontWeight="SemiBold" />
+                    <ComboBox x:Name="specializationComboBox" SelectionChanged="specialization_SelectionChanged" />
+                </StackPanel>
+
+                <StackPanel Grid.Column="2">
+                    <TextBlock Text="Выбор приема" FontSize="24" FontWeight="SemiBold" />
+                    <TextBlock Margin="0,6,0,0" Text="После выбора врача система загрузит только доступные услуги и даты записи." Foreground="{StaticResource MutedBrush}" TextWrapping="Wrap" />
+
+                    <TextBlock Margin="0,22,0,0" Text="Врач" FontSize="15" FontWeight="SemiBold" />
+                    <ComboBox x:Name="doctorComboBox" SelectionChanged="doctor_SelectionChanged" />
+
+                    <TextBlock Margin="0,18,0,0" Text="Услуга" FontSize="15" FontWeight="SemiBold" />
+                    <ComboBox x:Name="serviceComboBox" />
+
+                    <TextBlock Margin="0,18,0,0" Text="Дата приема" FontSize="15" FontWeight="SemiBold" />
+                    <ComboBox x:Name="timeComboBox" />
+
+                    <Border Margin="0,26,0,0" Background="#F2E8DA" CornerRadius="18" Padding="18">
+                        <TextBlock Text="После проверки данных откроется экран подтверждения стоимости и записи." Foreground="{StaticResource PrimaryDarkBrush}" TextWrapping="Wrap" FontSize="14" />
+                    </Border>
+                </StackPanel>
+
+                <Button x:Name="Home_Button" Grid.Row="2" Grid.Column="0" Click="Home_Button_Click" Content="Вернуться в центр" Margin="0,28,0,0" Style="{StaticResource OutlineButton}" />
+                <Button x:Name="Payment" Grid.Row="2" Grid.Column="2" Click="PaymentButton" Content="Перейти к подтверждению" Margin="0,28,0,0" Background="{StaticResource AccentBrush}" />
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

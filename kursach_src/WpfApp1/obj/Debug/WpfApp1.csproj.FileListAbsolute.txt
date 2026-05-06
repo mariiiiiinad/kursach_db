@@ -1,0 +1,219 @@
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/bin/Debug/WpfApp1.exe
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/bin/Debug/WpfApp1.pdb
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.AssemblyReference.cache
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/MainWindow.g.cs
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/Window1.g.cs
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/App.g.cs
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.cache
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.lref
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/MainWindow.baml
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/Window1.baml
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1.g.resources
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1.Properties.Resources.resources
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.GenerateResource.cache
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CoreCompileInputs.cache
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1.exe
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/WpfApp1.pdb
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.g.cs
+C:/Users/user/OneDrive/Рабочий стол/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.exe
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.pdb
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.AssemblyReference.cache
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/MainWindow.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window1.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/App.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.cache
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.lref
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/MainWindow.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window1.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.g.resources
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.Properties.Resources.resources
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.GenerateResource.cache
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CoreCompileInputs.cache
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.exe
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.pdb
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.AssemblyReference.cache
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/MainWindow.g.cs
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window1.g.cs
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.g.cs
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/App.g.cs
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.cache
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.lref
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.exe
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.pdb
+C:/Prod/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.exe
+C:/Prod/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.pdb
+C:/Prod/kursovaya/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.dll
+C:/Prod/kursovaya/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.xml
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/MainWindow.baml
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window1.baml
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.baml
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.g.resources
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.Properties.Resources.resources
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.GenerateResource.cache
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CoreCompileInputs.cache
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CopyComplete
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/bin/Debug/WpfApp1.exe
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/bin/Debug/WpfApp1.pdb
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.AssemblyReference.cache
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/MainWindow.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/Window1.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/App.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.cache
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.lref
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/MainWindow.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/Window1.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1.g.resources
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1.Properties.Resources.resources
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.GenerateResource.cache
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CoreCompileInputs.cache
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CopyComplete
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1.exe
+C:/Users/user/OneDrive/Рабочий стол/kursovaya-Liza/курсач/WpfApp1/obj/Debug/WpfApp1.pdb
+C:/Users/user/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.exe
+C:/Users/user/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.pdb
+C:/Users/user/kursovaya/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.dll
+C:/Users/user/kursovaya/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.xml
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.AssemblyReference.cache
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/MainWindow.g.cs
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window1.g.cs
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.g.cs
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/App.g.cs
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.cache
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.lref
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/MainWindow.baml
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window1.baml
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.baml
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.g.resources
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.Properties.Resources.resources
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.GenerateResource.cache
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CoreCompileInputs.cache
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CopyComplete
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.exe
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.pdb
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window3_CheckInf.g.cs
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window3_CheckInf.baml
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window4_ShowInf.g.cs
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window4_ShowInf.baml
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window5_AddInf.g.cs
+C:/Users/user/kursovaya/курсач/WpfApp1/obj/Debug/Window5_AddInf.baml
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window3_CheckInf.g.cs
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window4_ShowInf.g.cs
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window5_AddInf.g.cs
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window3_CheckInf.baml
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window4_ShowInf.baml
+C:/Prod/kursovaya/курсач/WpfApp1/obj/Debug/Window5_AddInf.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.exe.config
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Bcl.HashCode.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Npgsql.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Buffers.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Collections.Immutable.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Memory.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Numerics.Vectors.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Text.Encodings.Web.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Text.Json.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Threading.Channels.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Threading.Tasks.Extensions.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.ValueTuple.dll
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Bcl.HashCode.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/Npgsql.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Buffers.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Collections.Immutable.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Memory.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Numerics.Vectors.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Text.Encodings.Web.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Text.Json.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Threading.Channels.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.Threading.Tasks.Extensions.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/bin/Debug/System.ValueTuple.xml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window3_CheckInf.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window4_ShowInf.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window5_AddInf.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window3_CheckInf.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window4_ShowInf.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window5_AddInf.baml
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.Up2Date
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window6_AddPatient.g.cs
+C:/Users/user/OneDrive/Рабочий стол/kursovaya/курсач/WpfApp1/obj/Debug/Window6_AddPatient.baml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.exe.config
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.exe
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/WpfApp1.pdb
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Bcl.HashCode.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Npgsql.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Buffers.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Collections.Immutable.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Memory.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Numerics.Vectors.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Text.Encodings.Web.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Text.Json.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Threading.Channels.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Threading.Tasks.Extensions.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.ValueTuple.dll
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Bcl.HashCode.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Newtonsoft.Json.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/Npgsql.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Buffers.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Collections.Immutable.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Memory.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Numerics.Vectors.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Text.Encodings.Web.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Text.Json.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Threading.Channels.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.Threading.Tasks.Extensions.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/bin/Debug/System.ValueTuple.xml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.AssemblyReference.cache
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/MainWindow.g.cs
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window1.g.cs
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.g.cs
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window3_CheckInf.g.cs
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window4_ShowInf.g.cs
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window5_AddInf.g.cs
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window6_AddPatient.g.cs
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/App.g.cs
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.cache
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.lref
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/MainWindow.baml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window1.baml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window2_PaymentInformation.baml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window3_CheckInf.baml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window4_ShowInf.baml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window5_AddInf.baml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/Window6_AddPatient.baml
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.g.resources
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.Properties.Resources.resources
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.GenerateResource.cache
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.CoreCompileInputs.cache
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.csproj.Up2Date
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.exe
+C:/Users/123/source/repos/kursovaya/курсач/WpfApp1/obj/Debug/WpfApp1.pdb
+/Users/marinaazizova/myprojects/kursach_bd/kursovaya/kursach_src/WpfApp1/obj/Debug/WpfApp1.exe
+/Users/marinaazizova/myprojects/kursach_bd/kursovaya/kursach_src/WpfApp1/obj/Debug/WpfApp1.pdb
