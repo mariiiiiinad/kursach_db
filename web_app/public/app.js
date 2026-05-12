@@ -73,6 +73,7 @@ const els = {
     specialization: document.getElementById("adminSpecialization"),
     experience: document.getElementById("adminExperience"),
     service: document.getElementById("adminService"),
+    serviceDescription: document.getElementById("adminServiceDescription"),
     price: document.getElementById("adminPrice"),
     availability: document.getElementById("adminAvailability"),
     button: document.getElementById("saveDoctorButton"),
@@ -334,6 +335,23 @@ function renderMedicalRecordPanel() {
   els.appointments.diagnosis.value = state.selectedAppointment.diagnosis || "";
   els.appointments.treatment.value = state.selectedAppointment.treatment || "";
   els.appointments.notes.value = state.selectedAppointment.notes || "";
+
+  // Append a status selector so user can change appointment status
+  const statusSelectId = 'appointmentStatusSelect';
+  if (!document.getElementById(statusSelectId)) {
+    const statusHtml = `\
+      <label>Статус\
+        <select id="${statusSelectId}">\
+          <option value="">Выберите статус</option>\
+          <option value="scheduled">Запись подтверждена</option>\
+          <option value="completed">Прием завершен</option>\
+          <option value="cancelled">Запись отменена</option>\
+        </select>\
+      </label>`;
+    els.appointments.summary.insertAdjacentHTML('beforeend', statusHtml);
+  }
+  const statusEl = document.getElementById(statusSelectId);
+  if (statusEl) statusEl.value = state.selectedAppointment.status || '';
 }
 
 function selectAppointment(appointment) {
@@ -531,6 +549,7 @@ async function saveDoctor() {
     specialization_name: els.admin.specialization.value.trim(),
     experience: els.admin.experience.value.trim(),
     service_name: els.admin.service.value.trim(),
+    service_description: els.admin.serviceDescription ? els.admin.serviceDescription.value.trim() : "",
     service_price: els.admin.price.value,
     available_date: els.admin.availability.value,
   };
@@ -574,6 +593,7 @@ async function saveMedicalRecord() {
   const diagnosis = els.appointments.diagnosis.value.trim();
   const treatment = els.appointments.treatment.value.trim();
   const notes = els.appointments.notes.value.trim();
+  const status = document.getElementById('appointmentStatusSelect') ? document.getElementById('appointmentStatusSelect').value : null;
 
   const diagnosisError = validateRequired(diagnosis, "Диагноз");
   if (diagnosisError) return failValidation(diagnosisError, els.appointments.diagnosis);
@@ -587,6 +607,7 @@ async function saveMedicalRecord() {
       diagnosis,
       treatment,
       notes,
+      status,
     }),
   });
 

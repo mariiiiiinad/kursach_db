@@ -220,6 +220,7 @@ async function handleApi(req, res, url) {
         ? await queryJson(`
             SELECT ds.doctor_service_id AS id,
                    s.service_name AS name,
+         s.description AS description,
                    ds.service_price AS price
             FROM doctor_service ds
             JOIN service s ON s.service_id = ds.service_id
@@ -227,8 +228,9 @@ async function handleApi(req, res, url) {
             ORDER BY s.service_name
           `)
         : await queryJson(`
-            SELECT service_id AS id,
-                   service_name AS name
+       SELECT service_id AS id,
+         service_name AS name,
+         description
             FROM service
             ORDER BY service_name
           `);
@@ -415,9 +417,10 @@ async function handleApi(req, res, url) {
       `);
 
       await runPsql(`
-        INSERT INTO service (service_name)
-        VALUES (${sqlEscape(body.service_name)})
-        ON CONFLICT (service_name) DO NOTHING;
+        INSERT INTO service (service_name, description)
+        VALUES (${sqlEscape(body.service_name)}, ${sqlEscape(body.service_description)})
+        ON CONFLICT (service_name)
+        DO UPDATE SET description = EXCLUDED.description;
       `);
 
       await runPsql(`
@@ -459,13 +462,14 @@ async function handleApi(req, res, url) {
         return true;
       }
 
+      const statusValue = body.status ? String(body.status) : 'scheduled';
       const result = await mutateJson(`
         INSERT INTO appointment (patient_id, doctor_service_id, appointment_date, status)
         VALUES (
           ${patientRows[0].id},
           ${Number(body.doctor_service_id)},
           ${sqlEscape(body.appointment_date)},
-          'scheduled'
+          ${sqlEscape(statusValue)}
         )
         RETURNING appointment_id AS id
       `);
@@ -501,6 +505,15 @@ async function handleApi(req, res, url) {
           notes = EXCLUDED.notes
         RETURNING medical_record_id AS id, appointment_id
       `);
+      // If caller provided a status, update appointment.status as well
+      if (body.status) {
+        await runPsql(`
+          UPDATE appointment
+          SET status = ${sqlEscape(body.status)}
+          WHERE appointment_id = ${Number(result[0].appointment_id)};
+        `);
+      }
+
       sendJson(res, 201, result[0]);
     } catch (error) {
       sendJson(res, 500, { error: error.message });
